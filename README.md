@@ -2,7 +2,7 @@
 a photo robot
 
 # what is fotobot?
-fotobot is a live printing rig that pulls photos from instagram. here is a vimeo video that explains the basic premise: https://vimeo.com/60848065
+fotobot is a live printing rig that pulls photos from instagram. here is a vimeo video that explains the basic premise: https://vimeo.com/60848065. also looking at this single image probably covers it: https://cldup.com/Jp9uxDrK4B.jpg
 
 # wait, so it already exists?
 yeah kind of. we built a super hacky version of it a couple years back for a friend's wedding. since then, lots of folks have asked to use it, so I want to build something more stable. a webservice, perhaps.
